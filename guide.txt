@@ -1,0 +1,6 @@
+1. Filter the data for movies released in the 1990s
+
+2. Find the most frequent movie duration
+
+3. Count the number of short action movies from the 1990s
+
